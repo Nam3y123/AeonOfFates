@@ -1,0 +1,13 @@
+
+Artillery.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Stand1
+  rotate: false
+  xy: 2, 2
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1

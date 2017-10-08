@@ -1,0 +1,146 @@
+
+JetSprites.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fr1
+  rotate: false
+  xy: 2, 652
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr20
+  rotate: false
+  xy: 2, 652
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr2
+  rotate: false
+  xy: 2, 522
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr3
+  rotate: false
+  xy: 196, 652
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr4
+  rotate: false
+  xy: 2, 392
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr5
+  rotate: false
+  xy: 196, 522
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr6
+  rotate: false
+  xy: 390, 652
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr7
+  rotate: false
+  xy: 2, 262
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr8
+  rotate: false
+  xy: 196, 392
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr9
+  rotate: false
+  xy: 390, 522
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr10
+  rotate: false
+  xy: 584, 652
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr11
+  rotate: false
+  xy: 2, 132
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr12
+  rotate: false
+  xy: 196, 262
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr13
+  rotate: false
+  xy: 390, 392
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr14
+  rotate: false
+  xy: 584, 522
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr15
+  rotate: false
+  xy: 778, 652
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr16
+  rotate: false
+  xy: 2, 2
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr17
+  rotate: false
+  xy: 196, 132
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr18
+  rotate: false
+  xy: 390, 262
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+fr19
+  rotate: false
+  xy: 584, 392
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1

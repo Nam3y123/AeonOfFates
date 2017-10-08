@@ -1,0 +1,18 @@
+{
+	com.badlogic.gdx.graphics.g2d.BitmapFont: {
+		menu-font: { file: CombatMenu.fnt },
+		small-font: { file: smallTxt.fnt }
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+		combatMenu: { down:  default-round-down, up: default-round, font: menu-font },
+		smallTxt: { down:  default-round-down, up: default-round, font: small-font }
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+		combatMenu: { titleFont: menu-font },
+		smallTxt: { titleFont: small-font }
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+		combatMenu: { font: menu-font },
+		smallTxt: { font: small-font }
+	}
+}

@@ -1,0 +1,5 @@
+Wanderer's Talisman
+0
+0
+PASSIVE: Spirit of the Wanderer
+	This unit has the Spirit of the Wanderer imbued into them. This unit gains 1 experience every turn after Turn 3 has passed, as well as gaining 1 experience upon damaging an enemy (1 turn cooldown). If this unit hasn't taken or dealt damage within the past turn, they will gain one Wanderer charge, which grants 1 movement speed. This unit can gain 1 charge per turn up to a cap of 3 and loses all charges upon taking or dealing damage.

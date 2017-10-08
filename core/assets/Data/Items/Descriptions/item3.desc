@@ -1,0 +1,6 @@
+Health Potion
+1
+150
+ACTIVE: Restoration
+	This unit instantly restores health equal to %d (10% of their maximum health) and consumes the potion.
+user.getMaxHp() / 10

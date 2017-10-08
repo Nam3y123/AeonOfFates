@@ -1,0 +1,18 @@
+// This is an example of how these pages should work!
+// This seection is for early items, including the hero's recommended Talisman & consumables
+0 // The ID of the item
+1
+- // A split into the next section! This section is for core items.
+0
+1
+2
+- // This section is for offensive items! #TRIGGERED
+3
+4
+- // This section is for defensive items! No jokes for this one.
+5
+6
+- // Here are situational items for meta breakers.
+23
+94
+// Don't put comments in the actual item pages, it will probably break everything

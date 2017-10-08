@@ -1,0 +1,13 @@
+
+../../Particles/Igor_Particles.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Stand1
+  rotate: false
+  xy: 117, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+TestChar.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Stand1
+  rotate: false
+  xy: 2, 150
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+Stand3
+  rotate: false
+  xy: 2, 150
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+Stand2
+  rotate: false
+  xy: 2, 76
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+Stand4
+  rotate: false
+  xy: 2, 2
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
